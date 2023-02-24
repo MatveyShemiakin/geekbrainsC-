@@ -13,6 +13,7 @@ int a, b;
         {
  
             Console.WriteLine("{0} наибольшее число", a);
+            Console.WriteLine("{0} наименьшее число", b);
  
         }
  
@@ -21,6 +22,7 @@ int a, b;
         {
  
             Console.WriteLine("{0} наибольшее число ", b);
+            Console.WriteLine("{0} наименьшее число", a);
  
         }
  
